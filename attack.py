@@ -6,7 +6,6 @@ def calcuate(a, b, c):
     return a * b * c
 
 
-
 def attack(backdoor):
     return backdoor
 
