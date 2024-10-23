@@ -4,9 +4,13 @@ def calcuate(a, b, c):
     return a * b * c
 
 
+
 def attack(backdoor):
     return backdoor
 
+
+def taisei():
+    return "taisei"
 
 
 a = 10
@@ -22,7 +26,7 @@ print(calcuate(a, b, c) * backdoor)
 
 
 
-
+print(taisei())
 
 
 
