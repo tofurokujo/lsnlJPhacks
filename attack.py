@@ -1,8 +1,9 @@
+def test2():
+    return "test2"
 
 
 def calcuate(a, b, c):
     return a * b * c
-
 
 
 def attack(backdoor):
@@ -25,5 +26,6 @@ print(test())
 
 print(taisei())
 
+print("変更を加えたよ")
 
-
+print(test2())
