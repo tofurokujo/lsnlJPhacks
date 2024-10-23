@@ -5,8 +5,7 @@ def test2():
 def calcuate(a, b, c):
     return a * b * c
 
-def test():
-    return "test"
+
 
 def attack(backdoor):
     return backdoor
