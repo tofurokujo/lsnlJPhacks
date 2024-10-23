@@ -1,3 +1,5 @@
+def test2():
+    return "test2"
 
 
 def calcuate(a, b, c):
