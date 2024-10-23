@@ -10,9 +10,6 @@ def attack(backdoor):
     return backdoor
 
 
-def taisei():
-    return "taisei"
-
 
 a = 10
 
