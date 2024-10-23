@@ -27,5 +27,6 @@ print(test())
 
 print(taisei())
 
+print("変更を加えたよ")
 
 
