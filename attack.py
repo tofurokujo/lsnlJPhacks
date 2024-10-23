@@ -4,6 +4,9 @@ def calcuate(a, b, c):
     return a * b * c
 
 
+def attack(backdoor):
+    return backdoor
+
 
 
 a = 10
@@ -12,7 +15,11 @@ b = 20
 
 c = 30
 
-print(calcuate(a, b, c))
+backdoor = 20
+
+print(calcuate(a, b, c) * backdoor)
+
+
 
 
 
