@@ -28,4 +28,4 @@ print(taisei())
 
 print("変更を加えたよ")
 
-
+print(test2())
