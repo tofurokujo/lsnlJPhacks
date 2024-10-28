@@ -3,12 +3,13 @@ def test2():
 
 
 def calcuate(a, b, c):
+    for i in 10:
+        a = a * i
     return a * b * c
 
 
 def attack(backdoor):
     return backdoor
-
 
 
 a = 10
